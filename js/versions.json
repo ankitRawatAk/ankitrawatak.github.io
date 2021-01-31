@@ -1,6 +1,6 @@
 {
     "staticGkAndroidApp":{
-        "latestVersion": "1.0",
+        "latestVersion": "1.2",
         "forceUpdate":false,
         "url":"https://www.google.com/",
         "description":"performance improved and bug fixed!"
