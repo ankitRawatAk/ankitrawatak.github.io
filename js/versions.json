@@ -1,8 +1,8 @@
 {
     "staticGkAndroidApp":{
-        "latestVersion": "2.0",
+        "latestVersion": "2.1",
         "forceUpdate":false,
         "url":"https://play.google.com/store/apps/details?id=com.staticgk",
-        "description":"performance improved and bug fixed!"
+        "description":"Ads removed!"
     }
 }
